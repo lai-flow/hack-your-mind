@@ -29,5 +29,8 @@
 ## Javascript & Typescript
 
 
-# DevOps
-[Drone是一个容器原生、持续交付平台](https://github.com/drone/drone)
+## DevOps
+* [Drone是一个容器原生、持续交付平台](https://github.com/drone/drone)
+
+## 职业发展
+* [程序员应该有的一些好习惯+面试必知事项！](https://github.com/Snailclimb/programmer-advancement)
