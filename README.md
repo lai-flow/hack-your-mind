@@ -29,7 +29,8 @@
 
 ## Javascript & Typescript
 
-* [学习ES6最佳图书《深入理解ES6》（豆瓣9.4）](https://book.douban.com/subject/27072230/)
+* 学习ES6最佳图书[《深入理解ES6》（豆瓣9.4）](https://book.douban.com/subject/27072230/)
+* Typescript书籍：[深入理解Typescript](https://jkchao.github.io/typescript-book-chinese/)
 
 ## DevOps
 * [Drone是一个容器原生、持续交付平台](https://github.com/drone/drone)
