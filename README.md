@@ -18,6 +18,7 @@
 * [用Golang开发区块链](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
 
 ## Java
+
 * [mybatis-generator界面工具，让你生成代码更简单更快捷](https://github.com/zouzg/mybatis-generator-gui)
 
 ## Scala
@@ -35,6 +36,10 @@
 
 * 学习ES6最佳图书[《深入理解ES6》（豆瓣9.4）](https://book.douban.com/subject/27072230/)
 * Typescript书籍：[深入理解Typescript](https://jkchao.github.io/typescript-book-chinese/)
+
+## Git
+
+* [用动图表示一些有用的Git命令](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 
 ## 正则
 
@@ -74,15 +79,24 @@
 
 * [百万用户同时在线的高并发直播弹幕系统是如何实现的？](https://www.infoq.cn/article/xibIuuu2GGgA02MiNivQ)
 * [基于Redis设计一个百万级用户的高并发系统](https://dbaplus.cn/news-158-2762-1.html)
-* 
+
+
+
+## 分布式
+
+* [用谁都能看懂的方法解释分布式系统](https://zhuanlan.zhihu.com/c_158208519)
 
 ## DevOps
 
 * [Drone是一个容器原生、持续交付平台](https://github.com/drone/drone)
+* [大规模场景下 Prometheus 的优化手段](https://mp.weixin.qq.com/s/npfsM36T1j95TkOgd4mZeA)
 
 ## 职业素养和职业发展
 * [程序员应该有的一些好习惯+面试必知事项！](https://github.com/Snailclimb/programmer-advancement)
 * [程序员修炼之道（第2版）](https://book.douban.com/subject/35006892/)（神书，常读常新的好书，每次读都有新的感悟，译者是云风大神）
+* [自学编程需要注意什么](https://www.zhihu.com/question/45216002)
+* [在做程序员的道路上，你掌握了什么概念或技术使你感觉自我提升突飞猛进？](https://www.zhihu.com/question/68611994)
+* [TK教主给的建议](https://weibo.com/1401527553/FacHzEHFb?filter=hot&root_comment_id=0&type=comment#_rnd1587974506807)
 
 ## 安全
 * [渗透测试实战第三版](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)
