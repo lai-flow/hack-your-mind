@@ -21,8 +21,6 @@
 
 ## Scala
 
-
-
 ## Python
 
 * [以撸代码的形式学习Python](https://github.com/xianhu/LearnPython)
@@ -43,8 +41,37 @@
 * [Understanding Computation](https://book.douban.com/subject/19992840/)
 * [解释器的艺术](http://craftinginterpreters.com/contents.html)
 
+## Redis 
+
+* 入门[Redis使用手册](https://book.douban.com/subject/34836750/)
+* [Redis开发与运维](https://book.douban.com/subject/26971561/)
+
+* 深入[Redis的设计与实现](https://book.douban.com/subject/25900156/)
+* [如何保证redis的高并发及高可用？](https://juejin.im/post/5db3f7b5e51d4529ed2918df)
+
+## Nginx
+
+* 我认为Nginx最好的教程：春哥出品：[agentzh 的 Nginx 教程（最新版）](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
+* [Linux内核对Nginx的优化]([Linux内核参数针对nginx的优化](https://ivanzz1001.github.io/records/post/nginx/2017/10/08/nginx-linux_optimize))
+* [Niginx优化](https://imququ.com/post/my-nginx-conf-for-wpo.html)
+* [官方：开启reuseport的优化](https://www.nginx.com/blog/socket-sharding-nginx-release-1-9-1/)
+* [OpenRestry最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
+* [Nginx负载均衡算法](https://github.com/moonbingbing/openresty-best-practices/blob/master/ngx/balancer.md)
+* [Nginx配置静态文件服务](https://github.com/moonbingbing/openresty-best-practices/blob/master/ngx/static_file.md)
+* [Nginx反向代理](https://github.com/moonbingbing/openresty-best-practices/blob/master/ngx/reverse_proxy.md)
+* [Nginx 陷阱和常见错误](https://github.com/moonbingbing/openresty-best-practices/blob/master/ngx/pitfalls_and_common_mistakes.md)
+* [Nginx日志](https://github.com/moonbingbing/openresty-best-practices/blob/master/ngx/nginx_log.md)
+* [Nginx Location匹配规则](https://github.com/moonbingbing/openresty-best-practices/blob/master/ngx/nginx_local_pcre.md)
+* [Nginx高可用](https://www.cnblogs.com/SimpleWu/p/11004902.html)
+
+## 高并发
+
+* [百万用户同时在线的高并发直播弹幕系统是如何实现的？](https://www.infoq.cn/article/xibIuuu2GGgA02MiNivQ)
+* [基于Redis设计一个百万级用户的高并发系统](https://dbaplus.cn/news-158-2762-1.html)
+* 
 
 ## DevOps
+
 * [Drone是一个容器原生、持续交付平台](https://github.com/drone/drone)
 
 ## 职业素养和职业发展
