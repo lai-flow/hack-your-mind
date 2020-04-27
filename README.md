@@ -1,5 +1,5 @@
-# awsome-repo
-收集一些有用的repo
+# 
+学而时习之
 
 ## 系统设计
 * [学习如何设计大型系统](https://github.com/donnemartin/system-design-primer)
