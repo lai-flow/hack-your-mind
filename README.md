@@ -9,9 +9,10 @@
 
 
 ## Golang
-* [Go语言高级编程(Advanced Go Programming)](https://chai2010.cn/advanced-go-programming-book/)
+* [Go程序设计语言](https://book.douban.com/subject/27044219/)（Go语言圣经）
+* [Go语言高级编程(Advanced Go Programming)](https://chai2010.cn/advanced-go-programming-book/)（国产良心之作，干货很多）
 * [《Golang小书》](https://www.openmymind.net/assets/go/go.pdf)
-* [语言内部的书](https://github.com/teh-cmc/go-internals)
+* [Go语言内部的书](https://github.com/teh-cmc/go-internals)
 * [Golang 黑客工具](https://github.com/dreddsa5dies/goHackTools)
 * [功能更齐全高度可配置的SFTP工具](https://github.com/drakkan/sftpgo)
 * [用Golang开发区块链](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
@@ -81,6 +82,7 @@
 
 ## 职业素养和职业发展
 * [程序员应该有的一些好习惯+面试必知事项！](https://github.com/Snailclimb/programmer-advancement)
+* [程序员修炼之道（第2版）](https://book.douban.com/subject/35006892/)（神书，常读常新的好书，每次读都有新的感悟，译者是云风大神）
 
 ## 安全
 * [渗透测试实战第三版](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)
