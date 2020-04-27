@@ -17,6 +17,7 @@
 
 ## Python
 
+* [以撸代码的形式学习Python](https://github.com/xianhu/LearnPython)
 
 
 ## Javascript & Typescript
