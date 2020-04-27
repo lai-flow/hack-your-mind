@@ -17,6 +17,7 @@
 * [Golang 黑客工具](https://github.com/dreddsa5dies/goHackTools)
 * [功能更齐全高度可配置的SFTP工具](https://github.com/drakkan/sftpgo)
 * [用Golang开发区块链](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
+* [gosec:通过扫描Go AST检查源码的安全问题](https://github.com/securego/gosec)
 
 ## Java
 
@@ -36,14 +37,27 @@
 
 ## Javascript & Typescript
 
+#### ES6
+
 * 学习ES6最佳图书[《深入理解ES6》（豆瓣9.4）](https://book.douban.com/subject/27072230/)
 * [ES6概述，350个要点](https://github.com/bevacqua/es6) 作者的《深入ES6系列》也不错
+
+#### Typescript
+
 * Typescript书籍：[深入理解Typescript](https://jkchao.github.io/typescript-book-chinese/)
 * [NodeJs Typescript后端架构](https://github.com/afteracademy/nodejs-backend-architecture-typescript)
+
+#### React
+
 * [React 文档](https://zh-hans.reactjs.org/docs/getting-started.html) 官方文档永远是最佳学习指南
 * [前端架构杂思录：议 Function Component 与 Hooks](https://fed.taobao.org/blog/taofed/do71ct/hooks-and-function-component/) 淘系专栏，值得关注
 * [React Hooks入门教程](https://www.ruanyifeng.com/blog/2019/09/react-hooks.html)
 * [一文看懂React Hooks](https://zhuanlan.zhihu.com/p/50597236) 这个作者的专栏都非常值得一看
+
+##### Vue
+
+* [Vue 文档](https://cn.vuejs.org/v2/guide/index.html)
+* [Quasar：Vue 的一个非常好的框架，我个人非常喜欢，MD风格，功能齐全](https://quasar.dev/)
 
 ## Git
 
@@ -59,6 +73,16 @@
 * [前端](https://dickgrune.com/Books/PTAPG_1st_Edition/BookBody.pdf) [中文翻译](https://github.com/duguying/parsing-techniques)
 * [Understanding Computation](https://book.douban.com/subject/19992840/)
 * [解释器的艺术](http://craftinginterpreters.com/contents.html)
+* [手把手教你构建 C 语言编译器](https://lotabout.me/2015/write-a-C-interpreter-0/)
+
+## DB
+
+#### PostgreSQL
+
+* [pg中文文档](http://www.postgres.cn/docs/11/index.html)
+* [pg指引](http://postgresguide.com/)
+
+#### MySQL
 
 ## Redis 
 
@@ -83,6 +107,12 @@
 * [Nginx Location匹配规则](https://github.com/moonbingbing/openresty-best-practices/blob/master/ngx/nginx_local_pcre.md)
 * [Nginx高可用](https://www.cnblogs.com/SimpleWu/p/11004902.html)
 
+## ElasticSearch
+
+* [ElasticSearch文档](https://www.elastic.co/guide/index.html)
+* [Open Distro for Elasticsearch——ElasticSearch社区增强工具增强了企业安全、警报、SQL等功能](https://opendistro.github.io/for-elasticsearch/)
+* [ElasticSearch中文社区](https://elasticsearch.cn/)
+
 ## 高并发
 
 * [百万用户同时在线的高并发直播弹幕系统是如何实现的？](https://www.infoq.cn/article/xibIuuu2GGgA02MiNivQ)
@@ -99,7 +129,12 @@
 * [Drone是一个容器原生、持续交付平台](https://github.com/drone/drone)
 * [大规模场景下 Prometheus 的优化手段](https://mp.weixin.qq.com/s/npfsM36T1j95TkOgd4mZeA)
 
+##  大数据
+
+* [SQL查询引擎：PRESTO](https://prestodb.io/docs/current/)
+
 ## 职业素养和职业发展
+
 * [程序员应该有的一些好习惯+面试必知事项！](https://github.com/Snailclimb/programmer-advancement)
 * [程序员修炼之道（第2版）](https://book.douban.com/subject/35006892/)（神书，常读常新的好书，每次读都有新的感悟，译者是云风大神）
 * [自学编程需要注意什么](https://www.zhihu.com/question/45216002)
