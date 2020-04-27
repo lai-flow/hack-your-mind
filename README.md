@@ -10,6 +10,10 @@
 
 ## Golang
 * [Go语言高级编程(Advanced Go Programming)](https://chai2010.cn/advanced-go-programming-book/)
+* [《Golang小书》](https://www.openmymind.net/assets/go/go.pdf)
+* [语言内部的书](https://github.com/teh-cmc/go-internals)
+* [给安全人士的Golang](https://github.com/parsiya/Hacking-with-Go/)
+* [Golang 黑客工具](https://github.com/dreddsa5dies/goHackTools)
 
 ## Java
 * [mybatis-generator界面工具，让你生成代码更简单更快捷](https://github.com/zouzg/mybatis-generator-gui)
@@ -40,6 +44,11 @@
 
 ## 安全
 * [渗透测试实战第三版](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)
+* [安全行业从业者自研开源扫描器合辑](https://github.com/We5ter/Scanners-Box)
+* [内网渗透Tips](https://github.com/Ridter/Intranet_Penetration_Tips)
+* [一款全能型的网站漏洞扫描器](https://github.com/w-digital-scanner/w9scan)
+* [一款后门开发的framework](https://github.com/operatorequals/covertutils)
+* [Golang安全资源合集](https://github.com/re4lity/Hacking-With-Golang)
 
 ## 爬虫
 * [反反爬虫](https://github.com/luyishisi/Anti-Anti-Spider)
