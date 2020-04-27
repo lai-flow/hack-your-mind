@@ -6,6 +6,7 @@
 * [神书：《设计数据密集型应用》（DDIA）(豆瓣10分)](https://github.com/Vonng/ddia)
 * [xv6:MIT一个用于教学的操作系统，学习OS居家必备](https://github.com/mit-pdos/xv6-public)
 * [xv6 源码阅读](https://hehao98.github.io/posts/2019/03/xv6-1/)
+* [当..时发生了什么](https://github.com/skyline75489/what-happens-when-zh_CN)
 
 
 ## Golang
@@ -20,6 +21,7 @@
 ## Java
 
 * [mybatis-generator界面工具，让你生成代码更简单更快捷](https://github.com/zouzg/mybatis-generator-gui)
+* [Java漏洞代码](https://github.com/JoyChou93/java-sec-code/blob/master/README_zh.md)
 
 ## Scala
 
@@ -35,7 +37,13 @@
 ## Javascript & Typescript
 
 * 学习ES6最佳图书[《深入理解ES6》（豆瓣9.4）](https://book.douban.com/subject/27072230/)
+* [ES6概述，350个要点](https://github.com/bevacqua/es6) 作者的《深入ES6系列》也不错
 * Typescript书籍：[深入理解Typescript](https://jkchao.github.io/typescript-book-chinese/)
+* [NodeJs Typescript后端架构](https://github.com/afteracademy/nodejs-backend-architecture-typescript)
+* [React 文档](https://zh-hans.reactjs.org/docs/getting-started.html) 官方文档永远是最佳学习指南
+* [前端架构杂思录：议 Function Component 与 Hooks](https://fed.taobao.org/blog/taofed/do71ct/hooks-and-function-component/) 淘系专栏，值得关注
+* [React Hooks入门教程](https://www.ruanyifeng.com/blog/2019/09/react-hooks.html)
+* [一文看懂React Hooks](https://zhuanlan.zhihu.com/p/50597236) 这个作者的专栏都非常值得一看
 
 ## Git
 
