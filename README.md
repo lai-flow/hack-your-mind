@@ -3,6 +3,8 @@
 
 ## 系统设计
 * [学习如何设计大型系统](https://github.com/donnemartin/system-design-primer)
+* [设计数据密集型应用（DDIA）豆瓣10分](https://github.com/Vonng/ddia)
+
 
 
 ## Golang
