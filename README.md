@@ -49,3 +49,8 @@
 * [程序员进阶书籍（视频](https://github.com/jiankunking/books-recommendation)
 
 * [学习后端书籍](https://github.com/niuxinghua/SpringBooks)
+
+## 社区，阅读
+
+* [湾区日报](https://wanqu.co/)
+
