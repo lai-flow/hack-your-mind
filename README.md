@@ -14,6 +14,7 @@
 * [语言内部的书](https://github.com/teh-cmc/go-internals)
 * [给安全人士的Golang](https://github.com/parsiya/Hacking-with-Go/)
 * [Golang 黑客工具](https://github.com/dreddsa5dies/goHackTools)
+* [功能更齐全高度可配置的SFTP工具](https://github.com/drakkan/sftpgo)
 
 ## Java
 * [mybatis-generator界面工具，让你生成代码更简单更快捷](https://github.com/zouzg/mybatis-generator-gui)
@@ -35,6 +36,12 @@
 
 * 学习ES6最佳图书[《深入理解ES6》（豆瓣9.4）](https://book.douban.com/subject/27072230/)
 * Typescript书籍：[深入理解Typescript](https://jkchao.github.io/typescript-book-chinese/)
+
+##  编译原理
+* [写一个C编译器](https://norasandler.com/archive/)
+* [前端](https://dickgrune.com/Books/PTAPG_1st_Edition/BookBody.pdf) [中文翻译](https://github.com/duguying/parsing-techniques)
+
+
 
 ## DevOps
 * [Drone是一个容器原生、持续交付平台](https://github.com/drone/drone)
