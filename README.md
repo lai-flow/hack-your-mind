@@ -12,6 +12,7 @@
 ## Golang
 * [Go程序设计语言](https://book.douban.com/subject/27044219/)（Go语言圣经）
 * [Go语言高级编程(Advanced Go Programming)](https://chai2010.cn/advanced-go-programming-book/)（国产良心之作，干货很多）
+* [Go语言101](https://gfw.go101.org/article/101.html)
 * [《Golang小书》](https://www.openmymind.net/assets/go/go.pdf)
 * [Go语言内部的书](https://github.com/teh-cmc/go-internals)
 * [Golang 黑客工具](https://github.com/dreddsa5dies/goHackTools)
@@ -23,6 +24,7 @@
 
 * [mybatis-generator界面工具，让你生成代码更简单更快捷](https://github.com/zouzg/mybatis-generator-gui)
 * [Java漏洞代码](https://github.com/JoyChou93/java-sec-code/blob/master/README_zh.md)
+* 最新版的Java编程思想：[<On Java8>](https://lingcoder.github.io/OnJava8/#/sidebar)
 
 ## Scala
 
