@@ -3,7 +3,7 @@
 
 ## 系统设计
 * [学习如何设计大型系统](https://github.com/donnemartin/system-design-primer)
-* [设计数据密集型应用（DDIA）(豆瓣10分)](https://github.com/Vonng/ddia)
+* [神书：设计数据密集型应用（DDIA）(豆瓣10分)](https://github.com/Vonng/ddia)
 * [xv6:MIT一个用于教学的操作系统，学习OS居家必备](https://github.com/mit-pdos/xv6-public)
 * [xv6 源码阅读](https://hehao98.github.io/posts/2019/03/xv6-1/)
 
