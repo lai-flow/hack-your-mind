@@ -44,4 +44,8 @@
 ## 爬虫
 * [反反爬虫](https://github.com/luyishisi/Anti-Anti-Spider)
 
+## 电子书资源（建议买正版）
 
+* [程序员进阶书籍（视频](https://github.com/jiankunking/books-recommendation)
+
+* [学习后端书籍](https://github.com/niuxinghua/SpringBooks)
