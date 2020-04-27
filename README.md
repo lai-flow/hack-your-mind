@@ -35,7 +35,12 @@
 * 学习ES6最佳图书[《深入理解ES6》（豆瓣9.4）](https://book.douban.com/subject/27072230/)
 * Typescript书籍：[深入理解Typescript](https://jkchao.github.io/typescript-book-chinese/)
 
+## 正则
+
+* [学习正则表达式的简单方法](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
+
 ##  编译原理
+
 * [写一个C编译器](https://norasandler.com/archive/)
 * [前端](https://dickgrune.com/Books/PTAPG_1st_Edition/BookBody.pdf) [中文翻译](https://github.com/duguying/parsing-techniques)
 * [Understanding Computation](https://book.douban.com/subject/19992840/)
