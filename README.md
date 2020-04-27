@@ -34,3 +34,6 @@
 
 ## 职业素养和职业发展
 * [程序员应该有的一些好习惯+面试必知事项！](https://github.com/Snailclimb/programmer-advancement)
+
+## 安全
+* [渗透测试实战第三版](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)
