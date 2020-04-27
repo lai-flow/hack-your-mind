@@ -22,7 +22,7 @@
 * [以撸代码的形式学习Python](https://github.com/xianhu/LearnPython)
 
 #### Python 必读书籍
-1. [流畅的Python](https://u.jd.com/hpY2fZ)[豆瓣9.4](https://book.douban.com/subject/27028517/) [本书练习题](https://github.com/fluentpython/example-code)
+1. [流畅的Python](https://u.jd.com/hpY2fZ)（[豆瓣9.4]）(https://book.douban.com/subject/27028517/) [本书练习题](https://github.com/fluentpython/example-code)
 
 
 
