@@ -122,10 +122,17 @@
 
 * [用谁都能看懂的方法解释分布式系统](https://zhuanlan.zhihu.com/c_158208519)
 
+## 云原生
+
+* [挖财 Kubernetes 容器化之路](https://blog.opskumu.com/wacai-docker.html#org29fccf4)
+* [向外部发送k8s事件](https://github.com/AliyunContainerService/kube-eventer) 阿里云出品
+* 
+
 ## DevOps
 
 * [Drone是一个容器原生、持续交付平台](https://github.com/drone/drone)
 * [大规模场景下 Prometheus 的优化手段](https://mp.weixin.qq.com/s/npfsM36T1j95TkOgd4mZeA)
+* [容器环境下JVM内存的那些事儿](https://medium.com/adorsys/jvm-memory-settings-in-a-container-environment-64b0840e1d9e)
 
 ##  大数据
 
