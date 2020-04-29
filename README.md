@@ -11,15 +11,34 @@
 
 ## Golang
 * [Go程序设计语言](https://book.douban.com/subject/27044219/)（Go语言圣经）
+
 * [Go语言高级编程(Advanced Go Programming)](https://chai2010.cn/advanced-go-programming-book/)（国产良心之作，干货很多）
+
 * [Go语言101](https://gfw.go101.org/article/101.html)
+
 * [《Golang小书》](https://www.openmymind.net/assets/go/go.pdf)
+
 * [Go语言内部的书](https://github.com/teh-cmc/go-internals)
+
 * [Golang 黑客工具](https://github.com/dreddsa5dies/goHackTools)
+
 * [功能更齐全高度可配置的SFTP工具](https://github.com/drakkan/sftpgo)
+
 * [用Golang开发区块链](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
+
 * [gosec:通过扫描Go AST检查源码的安全问题](https://github.com/securego/gosec)
+
 * [Go Channel 详解](https://colobu.com/2016/04/14/Golang-Channels/)
+
+  #### Go 并发设计模式
+
+  * [Go并发设计模式之 Active Object](https://colobu.com/2019/07/02/concurrency-design-patterns-active-object/)
+  * [Go并发设计模式之 Half-Sync/Half-Async](https://colobu.com/2019/07/21/concurrency-design-patterns-half-sync-half-async/)
+  * [Gopher2019 Go并发编程分享](https://colobu.com/2019/04/28/gopher-2019-concurrent-in-action/)
+
+  #### Go 性能
+
+  * [Go性能工具分析和手段](https://colobu.com/2019/05/22/profilinggo/)
 
 ## Java
 
