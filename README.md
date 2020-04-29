@@ -32,6 +32,9 @@
 
   #### Go 并发设计模式
 
+  * [Go Channel详解](https://colobu.com/2016/04/14/Golang-Channels/)
+  * [Go Channel 应用模式](https://colobu.com/2018/03/26/channel-patterns/)
+
   * [Go并发设计模式之 Active Object](https://colobu.com/2019/07/02/concurrency-design-patterns-active-object/)
   * [Go并发设计模式之 Half-Sync/Half-Async](https://colobu.com/2019/07/21/concurrency-design-patterns-half-sync-half-async/)
   * [Gopher2019 Go并发编程分享](https://colobu.com/2019/04/28/gopher-2019-concurrent-in-action/)
