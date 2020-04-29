@@ -45,6 +45,8 @@
 * [mybatis-generator界面工具，让你生成代码更简单更快捷](https://github.com/zouzg/mybatis-generator-gui)
 * [Java漏洞代码](https://github.com/JoyChou93/java-sec-code/blob/master/README_zh.md)
 * 最新版的Java编程思想：[<On Java8>](https://lingcoder.github.io/OnJava8/#/sidebar)
+* [通过实例理解 JDK8 的 CompletableFuture](https://www.ibm.com/developerworks/cn/java/j-cf-of-jdk8/index.html)
+* [Java8的CompletableFuture进阶之道](https://juejin.im/post/5ca47aa0e51d457131257269#heading-17)
 
 ## Scala
 
