@@ -30,6 +30,8 @@
 
 * [Go Channel 详解](https://colobu.com/2016/04/14/Golang-Channels/)
 
+* [无闻：构建Go web应用](https://github.com/sudotty/hack-your-mind/blob/master/doc/API单位误解造成的严重故障.pdf)
+
   #### Go 并发设计模式
 
   * [Go Channel详解](https://colobu.com/2016/04/14/Golang-Channels/)
@@ -47,11 +49,14 @@
 
 * [mybatis-generator界面工具，让你生成代码更简单更快捷](https://github.com/zouzg/mybatis-generator-gui)
 * [Java漏洞代码](https://github.com/JoyChou93/java-sec-code/blob/master/README_zh.md)
-* 最新版的Java编程思想：[<On Java8>](https://lingcoder.github.io/OnJava8/#/sidebar)
+* 最新版的Java编程思想：[On Java8](https://lingcoder.github.io/OnJava8/#/sidebar)
 * [通过实例理解 JDK8 的 CompletableFuture](https://www.ibm.com/developerworks/cn/java/j-cf-of-jdk8/index.html)
 * [Java8的CompletableFuture进阶之道](https://juejin.im/post/5ca47aa0e51d457131257269#heading-17)
+* [一个淘宝故障排查的案例：API单位误解造成的经典故障]([https://github.com/sudotty/hack-your-mind/blob/master/doc/API%E5%8D%95%E4%BD%8D%E8%AF%AF%E8%A7%A3%E9%80%A0%E6%88%90%E7%9A%84%E4%B8%A5%E9%87%8D%E6%95%85%E9%9A%9C.pdf](https://github.com/sudotty/hack-your-mind/blob/master/doc/API单位误解造成的严重故障.pdf))
 
 ## Scala
+
+*  [Scala在挖财的应用](https://github.com/sudotty/hack-your-mind/blob/master/doc/Scala在挖财的应用实践-infoq.pdf)
 
 ## Python
 
@@ -59,6 +64,8 @@
 * [流畅的Python](https://u.jd.com/hpY2fZ)—— [豆瓣9.4](https://book.douban.com/subject/27028517/) [本书练习题](https://github.com/fluentpython/example-code)
 
 ## Javascript & Typescript
+
+* [函数式设计模式]([https://github.com/sudotty/hack-your-mind/blob/master/doc/Functional%20Design%20Patterns.pdf](https://github.com/sudotty/hack-your-mind/blob/master/doc/Functional Design Patterns.pdf))
 
 #### ES6
 
@@ -115,6 +122,10 @@
 * 深入[Redis的设计与实现](https://book.douban.com/subject/25900156/)
 * [如何保证redis的高并发及高可用？](https://juejin.im/post/5db3f7b5e51d4529ed2918df)
 
+## Kafka
+
+* [Kafka深度解析](https://github.com/sudotty/hack-your-mind/blob/master/doc/Kafka深度解析.pdf)
+
 ## Nginx
 
 * 我认为Nginx最好的教程：春哥出品：[agentzh 的 Nginx 教程（最新版）](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
@@ -146,12 +157,15 @@
 ## 分布式
 
 * [用谁都能看懂的方法解释分布式系统](https://zhuanlan.zhihu.com/c_158208519)
+* [Paxos的直观解释](https://github.com/sudotty/hack-your-mind/blob/master/doc/paxos的直观解释.pdf)
+* [雪球高可用架构改造分享](https://github.com/sudotty/hack-your-mind/blob/master/doc/雪球在股市风暴下的高可用架构改造分享.pdf)
 
 ## 云原生
 
 * [挖财 Kubernetes 容器化之路](https://blog.opskumu.com/wacai-docker.html#org29fccf4)
 * [向外部发送k8s事件](https://github.com/AliyunContainerService/kube-eventer) 阿里云出品
-* 
+* [Kubernetes模式](https://github.com/sudotty/hack-your-mind/blob/master/book/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en.pdf)
+* [Docker在雪球的实践](https://github.com/sudotty/hack-your-mind/blob/master/doc/Docker在雪球的技术实践.pdf)
 
 ## DevOps
 
@@ -162,6 +176,8 @@
 ##  大数据
 
 * [SQL查询引擎：PRESTO](https://prestodb.io/docs/current/)
+* [用Spark进行交互式数据分析的网络应用](https://github.com/sudotty/hack-your-mind/blob/master/doc/A-Web-Application-for-Interactive-Data-Analysis-with-Spark-Romain-Rigaux.pdf)
+* 
 
 ## 职业素养和职业发展
 
