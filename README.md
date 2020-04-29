@@ -19,6 +19,7 @@
 * [功能更齐全高度可配置的SFTP工具](https://github.com/drakkan/sftpgo)
 * [用Golang开发区块链](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
 * [gosec:通过扫描Go AST检查源码的安全问题](https://github.com/securego/gosec)
+* [Go Channel 详解](https://colobu.com/2016/04/14/Golang-Channels/)
 
 ## Java
 
