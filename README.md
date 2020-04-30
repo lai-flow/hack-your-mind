@@ -6,7 +6,7 @@
 * [神书：《设计数据密集型应用》（DDIA）(豆瓣10分)](https://github.com/Vonng/ddia)
 * [xv6:MIT一个用于教学的操作系统，学习OS居家必备](https://github.com/mit-pdos/xv6-public)
 * 任何东西深入下去，当然必须读点源码：[xv6 源码阅读](https://hehao98.github.io/posts/2019/03/xv6-1/)
-* [当..时发生了什么](https://github.com/skyline75489/what-happens-when-zh_CN)
+* 很有趣的一个问题，经典面试题： [当..时发生了什么](https://github.com/skyline75489/what-happens-when-zh_CN)
 
 
 ## Golang
