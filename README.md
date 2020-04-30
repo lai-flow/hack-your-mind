@@ -195,6 +195,7 @@
 * [一款后门开发的framework](https://github.com/operatorequals/covertutils)
 * [Golang安全资源合集](https://github.com/re4lity/Hacking-With-Golang)
 * [给安全人士的Golang](https://github.com/parsiya/Hacking-with-Go/)
+* [一个高级web目录、文件扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑](https://github.com/H4ckForJob/dirmap)
 
 ## 爬虫
 * [反反爬虫](https://github.com/luyishisi/Anti-Anti-Spider)
