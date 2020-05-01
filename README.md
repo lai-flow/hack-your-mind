@@ -67,6 +67,7 @@
 ## Javascript & Typescript
 
 * [函数式设计模式]([https://github.com/sudotty/hack-your-mind/blob/master/doc/Functional%20Design%20Patterns.pdf](https://github.com/sudotty/hack-your-mind/blob/master/doc/Functional Design Patterns.pdf))
+* [大多数您可以在浏览器中手动完成的事情，都可以用Puppeteer来完成(Chrome出品)](https://github.com/puppeteer/puppeteer)
 
 #### ES6
 
