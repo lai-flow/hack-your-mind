@@ -57,6 +57,7 @@
 ## Scala
 
 *  [Scala在挖财的应用](https://github.com/sudotty/hack-your-mind/blob/master/doc/Scala在挖财的应用实践-infoq.pdf)
+*  [Akka Stream设计与实现](https://github.com/Lbqds/notes/blob/master/akka/the-design-and-implementation-of-akka-stream.md)
 
 ## Python
 
