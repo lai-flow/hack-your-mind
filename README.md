@@ -68,6 +68,7 @@
 
 * [函数式设计模式]([https://github.com/sudotty/hack-your-mind/blob/master/doc/Functional%20Design%20Patterns.pdf](https://github.com/sudotty/hack-your-mind/blob/master/doc/Functional Design Patterns.pdf))
 * [大多数您可以在浏览器中手动完成的事情，都可以用Puppeteer来完成(Chrome出品)](https://github.com/puppeteer/puppeteer)
+* [跨平台 HTTP and GraphQL客户端 ](https://github.com/Kong/insomnia)
 
 #### ES6
 
@@ -124,13 +125,14 @@
 
 * 入门[Redis使用手册](https://book.douban.com/subject/34836750/)
 * [Redis开发与运维](https://book.douban.com/subject/26971561/)
-
 * 深入[Redis的设计与实现](https://book.douban.com/subject/25900156/)
 * [如何保证redis的高并发及高可用？](https://juejin.im/post/5db3f7b5e51d4529ed2918df)
+* [Redis 深度历险：核心原理与应用实践](https://book.douban.com/subject/30386804/)
 
 ## Kafka
 
 * [Kafka深度解析](https://github.com/sudotty/hack-your-mind/blob/master/doc/Kafka深度解析.pdf)
+* [一篇文章带你逆袭 Kafka](http://dockone.io/article/9959)
 
 ## Nginx
 
