@@ -168,7 +168,9 @@
 * [百万用户同时在线的高并发直播弹幕系统是如何实现的？](https://www.infoq.cn/article/xibIuuu2GGgA02MiNivQ)
 * [基于Redis设计一个百万级用户的高并发系统](https://dbaplus.cn/news-158-2762-1.html)
 
+## 算法
 
+* [不擅长算法和数据结构的程序员就不是好程序员吗？](https://www.v2ex.com/t/184271?p=1)
 
 ## 分布式
 
