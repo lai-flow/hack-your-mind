@@ -9,6 +9,7 @@
 * 很有趣的一个问题，经典面试题： [当..时发生了什么](https://github.com/skyline75489/what-happens-when-zh_CN)
 * [可以在本地托管的免费软件网络服务和网络应用的列表。自助托管是一个托管和管理应用程序的过程，而不是从软件即服务提供者那里租用](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [惊人的开放源码情报工具和资源清单。开放源情报（OSINT）是指从公开来源收集的情报。在情报界(IC)，"开放 "一词指的是公开的、可公开的来源(相对于秘密或秘密来源而言)](https://github.com/jivoi/awesome-osint)
+* [自己搭建各种应用：500行或以下](https://github.com/aosabook/500lines)
 
 
 ## Golang
@@ -83,12 +84,18 @@
 * [在不到30秒内获得一个完整的假REST API，零编码](https://github.com/typicode/json-server)
 * [Javascript动画引擎](https://github.com/juliangarnier/anime)
 * [Svelte是一种构建Web应用程序的新方法。它是一个编译器，可以将你的声明式组件转换为高效的JavaScript，并将其转换为可手术式更新DOM](https://github.com/sveltejs/svelte)
+* [fullPage插件，由Alvaro Trigo开发。快速、简单地创建全屏页面](https://github.com/alvarotrigo/fullPage.js)
+* [纯JavaScript超过100种语言的OCR](https://github.com/naptha/tesseract.js)
+* [Lighthouse分析网络应用和网页，收集现代性能指标和开发者最佳实践的洞察力](https://github.com/GoogleChrome/lighthouse)
+* [如何像javascript一样用jQuery、style、dom、ajax、event等，用普通的javascript做查询、样式、dom、ajax、事件等的例子。](https://github.com/nefe/You-Dont-Need-jQuery)
+* [让Git hooks更加简单](https://github.com/typicode/husky)
 
 #### ES6
 
 * 学习ES6最佳图书[《深入理解ES6》（豆瓣9.4）](https://book.douban.com/subject/27072230/)
 * [ES6概述，350个要点](https://github.com/bevacqua/es6) 作者的《深入ES6系列》也不错
 * [每个JavaScript开发人员都应该知道的33个概念](https://github.com/leonardomso/33-js-concepts)
+* [实用的函数式JavaScript编程](https://github.com/getify/Functional-Light-JS)
 
 #### Typescript
 
@@ -111,10 +118,12 @@
 #### Node.js
 
 * [Node.js定时任务框架](https://github.com/node-schedule/node-schedule)
+* [这个命令行接口可以让你将Node.js项目打包成可执行文件，即使在没有安装Node.js的设备上也可以运行](https://github.com/zeit/pkg)
 
 ## Git
 
 * [用动图表示一些有用的Git命令](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
+* [最常用的Git提示和技巧](https://github.com/git-tips/tips)
 
 ## 正则
 
