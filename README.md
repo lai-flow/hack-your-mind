@@ -88,6 +88,7 @@
 
 * 学习ES6最佳图书[《深入理解ES6》（豆瓣9.4）](https://book.douban.com/subject/27072230/)
 * [ES6概述，350个要点](https://github.com/bevacqua/es6) 作者的《深入ES6系列》也不错
+* [每个JavaScript开发人员都应该知道的33个概念](https://github.com/leonardomso/33-js-concepts)
 
 #### Typescript
 
