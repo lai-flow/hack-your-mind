@@ -67,11 +67,14 @@
 
 ## Scala
 
+Scala作为一门被误解（被说太复杂）的语言，其实非常值得学习
+
 *  [Scala在挖财的应用](https://github.com/sudotty/hack-your-mind/blob/master/doc/Scala在挖财的应用实践-infoq.pdf)
 *  [Akka Stream设计与实现](https://github.com/Lbqds/notes/blob/master/akka/the-design-and-implementation-of-akka-stream.md)
 *  [Hands-on Scala 中文](https://github.com/scalacn/hands-on-scala-zh)
 *  [Akka Stream](https://pragmaticscala.com/post/)
 *  [Akka Http中文](https://www.yangbajing.me/akka-http/)
+*  [Scala实用指南](https://reactiveplatform.github.io/Pragmatic-Scala/)
 
 ## Python
 
@@ -181,6 +184,7 @@
 #### MySQL
 
 * [给开发者看的MySQL索引知识](https://zhuanlan.zhihu.com/p/29118331)
+* [sysbench使用教程](http://ghoulich.xninja.org/2016/05/11/sysbench-manual/)
 
 ## Redis 
 
