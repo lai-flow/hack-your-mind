@@ -114,11 +114,19 @@
 
 
 
+## 卧槽Kotlin
+
+* [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)
+
 ## Flutter
 
 * [逆向工程 Flutter APP ](https://blog.tst.sh/reverse-engineering-flutter-apps-part-1/)
 * [Flutter 实例](https://github.com/iampawan/FlutterExampleApps)
 * [Flutter集锦](https://github.com/Solido/awesome-flutter)
+
+## Android
+
+* [收集样本，讨论和展示Android应用的不同架构工具和模式](https://github.com/android/architecture-samples)
 
 ## DB
 
