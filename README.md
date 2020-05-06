@@ -58,6 +58,7 @@
 * [一个淘宝故障排查的案例：API单位误解造成的经典故障]([https://github.com/sudotty/hack-your-mind/blob/master/doc/API%E5%8D%95%E4%BD%8D%E8%AF%AF%E8%A7%A3%E9%80%A0%E6%88%90%E7%9A%84%E4%B8%A5%E9%87%8D%E6%95%85%E9%9A%9C.pdf](https://github.com/sudotty/hack-your-mind/blob/master/doc/API单位误解造成的严重故障.pdf))
 * [软件开发中的小技巧](https://github.com/rachelcarmena/tips)
 * [A Java geek 博客](https://blog.frankel.ch/)
+* [神奇的JVM系列](https://github.com/deephacks/awesome-jvm)
 
 ## Scala
 
@@ -139,7 +140,7 @@
 
 
 
-## 卧槽Kotlin
+## Kotlin
 
 * [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)
 
