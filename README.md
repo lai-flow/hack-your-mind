@@ -59,6 +59,7 @@
 * [软件开发中的小技巧](https://github.com/rachelcarmena/tips)
 * [A Java geek 博客](https://blog.frankel.ch/)
 * [神奇的JVM系列](https://github.com/deephacks/awesome-jvm)
+* [采样CPU和HEAP剖析器的Java分析器](https://github.com/jvm-profiling-tools/async-profiler)
 
 ## Scala
 
