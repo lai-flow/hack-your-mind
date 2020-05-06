@@ -102,6 +102,7 @@
 
 * Typescript书籍：[深入理解Typescript](https://jkchao.github.io/typescript-book-chinese/)
 * [NodeJs Typescript后端架构](https://github.com/afteracademy/nodejs-backend-architecture-typescript)
+* [具有挑战性的TypeScript练习集](https://github.com/mdevils/typescript-exercises)
 
 #### React
 
@@ -206,6 +207,7 @@
 ## 算法
 
 * [不擅长算法和数据结构的程序员就不是好程序员吗？](https://www.v2ex.com/t/184271?p=1)
+* [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
 
 ## 分布式
 
