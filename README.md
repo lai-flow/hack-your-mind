@@ -185,6 +185,9 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 
 * [给开发者看的MySQL索引知识](https://zhuanlan.zhihu.com/p/29118331)
 * [sysbench使用教程](http://ghoulich.xninja.org/2016/05/11/sysbench-manual/)
+* [MySQL范围查询优化](http://www.gxitsky.com/2019/03/21/mysql-20-Optimizing-Rang-Scan/)
+* [写多读少的场景，TokuDB引擎怎么用](https://dbaplus.cn/news-149-418-1.html)(适合范围查询多，数据量大，这个引擎压缩比非常好，完虐innoDB)
+* [MySQL参数调优建议](https://help.aliyun.com/document_detail/63255.html?spm=a2c4g.11186623.4.1.737e54544ydh53)
 
 ## Redis 
 
