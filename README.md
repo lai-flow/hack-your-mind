@@ -8,7 +8,7 @@
 * 任何东西深入下去，当然必须读点源码：[xv6 源码阅读](https://hehao98.github.io/posts/2019/03/xv6-1/)
 * 很有趣的一个问题，经典面试题： [当..时发生了什么](https://github.com/skyline75489/what-happens-when-zh_CN)
 * [可以在本地托管的免费软件网络服务和网络应用的列表。自助托管是一个托管和管理应用程序的过程，而不是从软件即服务提供者那里租用](https://github.com/awesome-selfhosted/awesome-selfhosted)
-* 
+* [惊人的开放源码情报工具和资源清单。开放源情报（OSINT）是指从公开来源收集的情报。在情报界(IC)，"开放 "一词指的是公开的、可公开的来源(相对于秘密或秘密来源而言)](https://github.com/jivoi/awesome-osint)
 
 
 ## Golang
@@ -80,6 +80,9 @@
 * [从Node运行无头浏览器的Puppeteer示例脚本](https://github.com/checkly/puppeteer-examples)
 * [用于构建东西的各种工具、库、API和数据源](https://github.com/danburzo/toolbox)
 * [🛁适用于JavaScript的简洁代码概念](https://github.com/ryanmcdermott/clean-code-javascript)
+* [在不到30秒内获得一个完整的假REST API，零编码](https://github.com/typicode/json-server)
+* [Javascript动画引擎](https://github.com/juliangarnier/anime)
+* [Svelte是一种构建Web应用程序的新方法。它是一个编译器，可以将你的声明式组件转换为高效的JavaScript，并将其转换为可手术式更新DOM](https://github.com/sveltejs/svelte)
 
 #### ES6
 
