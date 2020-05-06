@@ -97,6 +97,7 @@
 * [ES6概述，350个要点](https://github.com/bevacqua/es6) 作者的《深入ES6系列》也不错
 * [每个JavaScript开发人员都应该知道的33个概念](https://github.com/leonardomso/33-js-concepts)
 * [实用的函数式JavaScript编程](https://github.com/getify/Functional-Light-JS)
+* [最爱的JavaScript工具集——一行JavaScript](https://1loc.dev/)
 
 #### Typescript
 
