@@ -60,6 +60,10 @@
 * [A Java geek 博客](https://blog.frankel.ch/)
 * [神奇的JVM系列](https://github.com/deephacks/awesome-jvm)
 * [采样CPU和HEAP剖析器的Java分析器](https://github.com/jvm-profiling-tools/async-profiler)
+* [JVM底层原理知识总结](https://doocs.github.io/jvm/#/)
+* [Java DCM库（阿里）](https://github.com/alibaba/java-dns-cache-manipulator/blob/master/library/README.md)
+* [Arthas 用户文档](https://arthas.gitee.io/)
+* [JVM Profiler: 一种规模化跟踪分布式JVM应用的开源工具](https://eng.uber.com/jvm-profiler/)(Uber出品)
 
 ## Scala
 
@@ -175,6 +179,8 @@
 * [pg指引](http://postgresguide.com/)
 
 #### MySQL
+
+* [给开发者看的MySQL索引知识](https://zhuanlan.zhihu.com/p/29118331)
 
 ## Redis 
 
