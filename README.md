@@ -54,6 +54,7 @@
 * [Java8的CompletableFuture进阶之道](https://juejin.im/post/5ca47aa0e51d457131257269#heading-17)
 * [一个淘宝故障排查的案例：API单位误解造成的经典故障]([https://github.com/sudotty/hack-your-mind/blob/master/doc/API%E5%8D%95%E4%BD%8D%E8%AF%AF%E8%A7%A3%E9%80%A0%E6%88%90%E7%9A%84%E4%B8%A5%E9%87%8D%E6%95%85%E9%9A%9C.pdf](https://github.com/sudotty/hack-your-mind/blob/master/doc/API单位误解造成的严重故障.pdf))
 * [软件开发中的小技巧](https://github.com/rachelcarmena/tips)
+* [A Java geek 博客](https://blog.frankel.ch/)
 
 ## Scala
 
@@ -128,6 +129,7 @@
 ## Android
 
 * [收集样本，讨论和展示Android应用的不同架构工具和模式](https://github.com/android/architecture-samples)
+* [💎 Android 应用遵循最佳实践。Kotlin, coroutines, Clean Architecture, 功能模块, 测试, MVVM, 静态分析......](https://github.com/igorwojda/android-showcase)
 
 ## DB
 
