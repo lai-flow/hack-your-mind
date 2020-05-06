@@ -7,6 +7,8 @@
 * [xv6:MIT一个用于教学的操作系统，学习OS居家必备](https://github.com/mit-pdos/xv6-public)
 * 任何东西深入下去，当然必须读点源码：[xv6 源码阅读](https://hehao98.github.io/posts/2019/03/xv6-1/)
 * 很有趣的一个问题，经典面试题： [当..时发生了什么](https://github.com/skyline75489/what-happens-when-zh_CN)
+* [可以在本地托管的免费软件网络服务和网络应用的列表。自助托管是一个托管和管理应用程序的过程，而不是从软件即服务提供者那里租用](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* 
 
 
 ## Golang
@@ -71,6 +73,13 @@
 * [函数式设计模式]([https://github.com/sudotty/hack-your-mind/blob/master/doc/Functional%20Design%20Patterns.pdf](https://github.com/sudotty/hack-your-mind/blob/master/doc/Functional Design Patterns.pdf))
 * [大多数您可以在浏览器中手动完成的事情，都可以用Puppeteer来完成(Chrome出品)](https://github.com/puppeteer/puppeteer)
 * [跨平台 HTTP and GraphQL客户端 ](https://github.com/Kong/insomnia)
+* [用于Firefox Reader View的可读性库的独立版本](https://github.com/mozilla/readability)
+* [各种Web标准的JavaScript实现，用于Node.js](https://github.com/jsdom/jsdom)
+* [人类友好和强大的Node.js HTTP 请求库](https://github.com/sindresorhus/got)
+* [一个命令行工具，可以把网页变成精美的PDF格式的命令行工具](https://github.com/danburzo/percollate)
+* [从Node运行无头浏览器的Puppeteer示例脚本](https://github.com/checkly/puppeteer-examples)
+* [用于构建东西的各种工具、库、API和数据源](https://github.com/danburzo/toolbox)
+* [🛁适用于JavaScript的简洁代码概念](https://github.com/ryanmcdermott/clean-code-javascript)
 
 #### ES6
 
@@ -88,6 +97,7 @@
 * [前端架构杂思录：议 Function Component 与 Hooks](https://fed.taobao.org/blog/taofed/do71ct/hooks-and-function-component/) 淘系专栏，值得关注
 * [React Hooks入门教程](https://www.ruanyifeng.com/blog/2019/09/react-hooks.html)
 * [一文看懂React Hooks](https://zhuanlan.zhihu.com/p/50597236) 这个作者的专栏都非常值得一看
+* [React食谱和模式](https://github.com/danburzo/react-recipes)
 
 ##### Vue
 
