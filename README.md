@@ -9,7 +9,7 @@
 * 很有趣的一个问题，经典面试题： [当..时发生了什么](https://github.com/skyline75489/what-happens-when-zh_CN)
 * [可以在本地托管的免费软件网络服务和网络应用的列表。自助托管是一个托管和管理应用程序的过程，而不是从软件即服务提供者那里租用](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [惊人的开放源码情报工具和资源清单。开放源情报（OSINT）是指从公开来源收集的情报。在情报界(IC)，"开放 "一词指的是公开的、可公开的来源(相对于秘密或秘密来源而言)](https://github.com/jivoi/awesome-osint)
-* [自己搭建各种应用：500行或以下](https://github.com/aosabook/500lines)
+* [自己搭建各种应用：500行或以下](https://github.com/aosabook/500lines)（"500行或更少 "主要讲的是有经验的程序员在写代码的时候，在设计上的决策和取舍）
 
 
 ## Golang
