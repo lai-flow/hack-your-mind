@@ -233,6 +233,7 @@
 
 * [SQL查询引擎：PRESTO](https://prestodb.io/docs/current/)
 * [用Spark进行交互式数据分析的网络应用](https://github.com/sudotty/hack-your-mind/blob/master/doc/A-Web-Application-for-Interactive-Data-Analysis-with-Spark-Romain-Rigaux.pdf)
+* [追源索骥-通过源码读Flink](https://github.com/bethunebtj/flink_tutorial)
 
 ## 职业素养和职业发展
 
