@@ -157,8 +157,6 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [解释器的艺术](http://craftinginterpreters.com/contents.html)
 * [手把手教你构建 C 语言编译器](https://lotabout.me/2015/write-a-C-interpreter-0/)
 
-
-
 ## Kotlin
 
 * [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)
@@ -173,6 +171,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 
 * [收集样本，讨论和展示Android应用的不同架构工具和模式](https://github.com/android/architecture-samples)
 * [💎 Android 应用遵循最佳实践。Kotlin, coroutines, Clean Architecture, 功能模块, 测试, MVVM, 静态分析......](https://github.com/igorwojda/android-showcase)
+* [无需root的安卓平台上的JavaScript自动化工具](https://github.com/hyb1996/Auto.js)
 
 ## DB
 
