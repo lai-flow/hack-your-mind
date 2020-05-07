@@ -101,6 +101,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [Lighthouse分析网络应用和网页，收集现代性能指标和开发者最佳实践的洞察力](https://github.com/GoogleChrome/lighthouse)
 * [如何像javascript一样用jQuery、style、dom、ajax、event等，用普通的javascript做查询、样式、dom、ajax、事件等的例子。](https://github.com/nefe/You-Dont-Need-jQuery)
 * [让Git hooks更加简单](https://github.com/typicode/husky)
+* [你错过的关于反应式编程的介绍](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 #### ES6
 
@@ -237,6 +238,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [用谁都能看懂的方法解释分布式系统](https://zhuanlan.zhihu.com/c_158208519)
 * [Paxos的直观解释](https://github.com/sudotty/hack-your-mind/blob/master/doc/paxos的直观解释.pdf)
 * [雪球高可用架构改造分享](https://github.com/sudotty/hack-your-mind/blob/master/doc/雪球在股市风暴下的高可用架构改造分享.pdf)
+* [雪花算法和时钟回拨问题]([使用雪花算法为分布式下全局ID、订单号等简单解决方案考虑到时钟回拨](https://www.cnblogs.com/jpfss/p/11506960.html))
 
 ## 云原生
 
