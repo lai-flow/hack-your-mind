@@ -249,6 +249,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [向外部发送k8s事件](https://github.com/AliyunContainerService/kube-eventer) 阿里云出品
 * [Kubernetes模式](https://github.com/sudotty/hack-your-mind/blob/master/book/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en.pdf)
 * [Docker在雪球的实践](https://github.com/sudotty/hack-your-mind/blob/master/doc/Docker在雪球的技术实践.pdf)
+* [`Docker Desktop for Mac` 开启并使用 `Kubernetes`](https://github.com/gotok8s/k8s-docker-desktop-for-mac)
 
 ## DevOps
 
@@ -269,6 +270,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [自学编程需要注意什么](https://www.zhihu.com/question/45216002)
 * [在做程序员的道路上，你掌握了什么概念或技术使你感觉自我提升突飞猛进？](https://www.zhihu.com/question/68611994)
 * [TK教主给的建议](https://weibo.com/1401527553/FacHzEHFb?filter=hot&root_comment_id=0&type=comment#_rnd1587974506807)
+* [经理人手册](https://github.com/ksindi/managers-playbook/blob/master/README.md#principles)
 
 ## 安全
 * [渗透测试实战第三版](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)
