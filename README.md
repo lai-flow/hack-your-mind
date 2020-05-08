@@ -11,6 +11,7 @@
 * [惊人的开放源码情报工具和资源清单。开放源情报（OSINT）是指从公开来源收集的情报。在情报界(IC)，"开放 "一词指的是公开的、可公开的来源(相对于秘密或秘密来源而言)](https://github.com/jivoi/awesome-osint)
 * [自己搭建各种应用：500行或以下](https://github.com/aosabook/500lines)（"500行或更少 "主要讲的是有经验的程序员在写代码的时候，在设计上的决策和取舍）
 * [论文阅读笔记（分布式，虚拟化，机器学习）](https://github.com/dyweb/papers-notebook)
+* [架构师图谱](https://github.com/toutiaoio/awesome-architecture)，看完之后有没有一种吾生也有涯，而知也无涯的感觉~
 
 
 ## Golang
