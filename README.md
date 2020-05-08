@@ -65,6 +65,8 @@
 * [Java DCM库（阿里）](https://github.com/alibaba/java-dns-cache-manipulator/blob/master/library/README.md)
 * [Arthas 用户文档](https://arthas.gitee.io/)
 * [JVM Profiler: 一种规模化跟踪分布式JVM应用的开源工具](https://eng.uber.com/jvm-profiler/)(Uber出品)
+* [Java关于并发的代码审查列表](https://github.com/code-review-checklists/java-concurrency#executor-service-type-loss)
+* [Java教程](http://tutorials.jenkov.com/)
 
 ## Scala
 
