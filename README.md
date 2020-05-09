@@ -21,43 +21,6 @@
 * [架构师图谱](https://github.com/toutiaoio/awesome-architecture)，看完之后有没有一种吾生也有涯，而知也无涯的感觉
 * [《深入理解计算机系统》第三版的实验文件、解答与笔记](https://github.com/Exely/CSAPP-Labs)：这本书是所有程序员都应该读的，我认为很多程序员可以对底层知识忽略，这种忽略会让你很快走到瓶颈，如果想要突破瓶颈，必须有一些底层知识的体系，这本书和它的实验都是很好地学习例子，不必深究，但是需要会。
 
-## Golang
-
-* [Go程序设计语言](https://book.douban.com/subject/27044219/)（Go语言圣经）
-
-* [Go语言高级编程(Advanced Go Programming)](https://chai2010.cn/advanced-go-programming-book/)（国产良心之作，干货很多）
-
-* [Go语言101](https://gfw.go101.org/article/101.html)
-
-* [《Golang小书》](https://www.openmymind.net/assets/go/go.pdf)
-
-* [Go语言内部的书](https://github.com/teh-cmc/go-internals)
-
-* [Golang 黑客工具](https://github.com/dreddsa5dies/goHackTools)
-
-* [功能更齐全高度可配置的SFTP工具](https://github.com/drakkan/sftpgo)
-
-* [用Golang开发区块链](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
-
-* [gosec:通过扫描Go AST检查源码的安全问题](https://github.com/securego/gosec)
-
-* [Go Channel 详解](https://colobu.com/2016/04/14/Golang-Channels/)
-
-* [无闻：构建Go web应用](https://github.com/sudotty/hack-your-mind/blob/master/doc/API单位误解造成的严重故障.pdf)
-
-  #### Go 并发设计模式
-
-  * [Go Channel详解](https://colobu.com/2016/04/14/Golang-Channels/)
-  * [Go Channel 应用模式](https://colobu.com/2018/03/26/channel-patterns/)
-
-  * [Go并发设计模式之 Active Object](https://colobu.com/2019/07/02/concurrency-design-patterns-active-object/)
-  * [Go并发设计模式之 Half-Sync/Half-Async](https://colobu.com/2019/07/21/concurrency-design-patterns-half-sync-half-async/)
-  * [Gopher2019 Go并发编程分享](https://colobu.com/2019/04/28/gopher-2019-concurrent-in-action/)
-
-  #### Go 性能
-
-  * [Go性能工具分析和手段](https://colobu.com/2019/05/22/profilinggo/)
-
 ## Java
 
 * [mybatis-generator界面工具，让你生成代码更简单更快捷](https://github.com/zouzg/mybatis-generator-gui)
@@ -153,6 +116,45 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 
 * [看看你的网站表现如何。然后，获得改进用户体验的提示。登录以跟踪您的进度](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fipkaq.com)
 * [Node.js最佳实践列表](https://github.com/goldbergyoni/nodebestpractices)
+
+## Golang
+
+* [Go程序设计语言](https://book.douban.com/subject/27044219/)（Go语言圣经）
+
+* [Go语言高级编程(Advanced Go Programming)](https://chai2010.cn/advanced-go-programming-book/)（国产良心之作，干货很多）
+
+* [Go语言101](https://gfw.go101.org/article/101.html)
+
+* [《Golang小书》](https://www.openmymind.net/assets/go/go.pdf)
+
+* [Go语言内部的书](https://github.com/teh-cmc/go-internals)
+
+* [Golang 黑客工具](https://github.com/dreddsa5dies/goHackTools)
+
+* [功能更齐全高度可配置的SFTP工具](https://github.com/drakkan/sftpgo)
+
+* [用Golang开发区块链](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
+
+* [gosec:通过扫描Go AST检查源码的安全问题](https://github.com/securego/gosec)
+
+* [Go Channel 详解](https://colobu.com/2016/04/14/Golang-Channels/)
+
+* [无闻：构建Go web应用](https://github.com/sudotty/hack-your-mind/blob/master/doc/API单位误解造成的严重故障.pdf)
+
+  #### Go 并发设计模式
+
+  * [Go Channel详解](https://colobu.com/2016/04/14/Golang-Channels/)
+  * [Go Channel 应用模式](https://colobu.com/2018/03/26/channel-patterns/)
+
+  * [Go并发设计模式之 Active Object](https://colobu.com/2019/07/02/concurrency-design-patterns-active-object/)
+  * [Go并发设计模式之 Half-Sync/Half-Async](https://colobu.com/2019/07/21/concurrency-design-patterns-half-sync-half-async/)
+  * [Gopher2019 Go并发编程分享](https://colobu.com/2019/04/28/gopher-2019-concurrent-in-action/)
+
+  #### Go 性能
+
+  * [Go性能工具分析和手段](https://colobu.com/2019/05/22/profilinggo/)
+
+
 
 ## Git
 
