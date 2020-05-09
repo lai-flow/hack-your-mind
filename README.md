@@ -51,6 +51,10 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 *  [Akka Http中文](https://www.yangbajing.me/akka-http/)
 *  [Scala实用指南](https://reactiveplatform.github.io/Pragmatic-Scala/)
 
+## C++(真的别怕，上面我还推荐了更狠的Scala，其实别太纠结，够用就好)
+
+* [这是一个适合初学者从**入门到进阶**的仓库，解决了**面试者与学习者**想要**深入C++**及如何**入坑C++**的问题。除此之外，本仓库拓展了更加深入的源码分析，多线程并发等的知识，是一个比较全面的C++学习从入门到进阶提升的仓库。](https://light-city.club/sc/)
+
 ## Python
 
 * [以撸代码的形式学习Python](https://github.com/xianhu/LearnPython)
