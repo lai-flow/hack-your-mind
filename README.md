@@ -128,6 +128,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [React Hooks入门教程](https://www.ruanyifeng.com/blog/2019/09/react-hooks.html)
 * [一文看懂React Hooks](https://zhuanlan.zhihu.com/p/50597236) 这个作者的专栏都非常值得一看
 * [React食谱和模式](https://github.com/danburzo/react-recipes)
+* [ReactJS面试真题及答案](https://github.com/sudheerj/reactjs-interview-questions)
 
 ##### Vue
 
@@ -142,6 +143,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 ####  Web Dev
 
 * [看看你的网站表现如何。然后，获得改进用户体验的提示。登录以跟踪您的进度](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fipkaq.com)
+* [Node.js最佳实践列表](https://github.com/goldbergyoni/nodebestpractices)
 
 
 
