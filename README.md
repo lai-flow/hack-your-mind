@@ -270,6 +270,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [Drone是一个容器原生、持续交付平台](https://github.com/drone/drone)
 * [大规模场景下 Prometheus 的优化手段](https://mp.weixin.qq.com/s/npfsM36T1j95TkOgd4mZeA)
 * [容器环境下JVM内存的那些事儿](https://medium.com/adorsys/jvm-memory-settings-in-a-container-environment-64b0840e1d9e)
+* [SystemTap允许使用者监控Linux系统当前的运行情况，以便进一步分析。这将有助于运维或开发人员缉查bug或性能问题的罪魁祸首](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/1_1_DocumentationGuide.html)
 
 ##  大数据
 
