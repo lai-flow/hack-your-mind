@@ -1,6 +1,13 @@
 # 
 学而时习之
 
+说点见解：
+
+1. 每一个程序员都应该学点函数式，未必需要深究，但是函数式会革新你的编程和设计理念
+2. 现在IT系统已经分类很细致，每一个领域细分下去都可以非常深入，跨学科，跨领域知识同样是优秀程序员的必备技能
+3. 学无止境，必须时刻保持技术敏感度，一方面了解新的技术趋势，一方面对于内功类知识需要不停地巩固
+4. 对于绝大部分开发者来说，SQL和编译原理真的很重要，比你的现在搞得`API调用`和`调参`重要多了！！！
+
 ## 系统设计
 * [学习如何设计大型系统](https://github.com/donnemartin/system-design-primer)
 * [神书：《设计数据密集型应用》（DDIA）(豆瓣10分)](https://github.com/Vonng/ddia)
@@ -120,6 +127,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * Typescript书籍：[深入理解Typescript](https://jkchao.github.io/typescript-book-chinese/)
 * [NodeJs Typescript后端架构](https://github.com/afteracademy/nodejs-backend-architecture-typescript)
 * [具有挑战性的TypeScript练习集](https://github.com/mdevils/typescript-exercises)
+* [函数式Typescript](https://github.com/gcanti/fp-ts)
 
 #### React
 
