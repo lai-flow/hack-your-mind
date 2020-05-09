@@ -18,10 +18,11 @@
 * [惊人的开放源码情报工具和资源清单。开放源情报（OSINT）是指从公开来源收集的情报。在情报界(IC)，"开放 "一词指的是公开的、可公开的来源(相对于秘密或秘密来源而言)](https://github.com/jivoi/awesome-osint)
 * [自己搭建各种应用：500行或以下](https://github.com/aosabook/500lines)（"500行或更少 "主要讲的是有经验的程序员在写代码的时候，在设计上的决策和取舍）
 * [论文阅读笔记（分布式，虚拟化，机器学习）](https://github.com/dyweb/papers-notebook)
-* [架构师图谱](https://github.com/toutiaoio/awesome-architecture)，看完之后有没有一种吾生也有涯，而知也无涯的感觉~
-
+* [架构师图谱](https://github.com/toutiaoio/awesome-architecture)，看完之后有没有一种吾生也有涯，而知也无涯的感觉
+* [《深入理解计算机系统》第三版的实验文件、解答与笔记](https://github.com/Exely/CSAPP-Labs)：这本书是所有程序员都应该读的，我认为很多程序员可以对底层知识忽略，这种忽略会让你很快走到瓶颈，如果想要突破瓶颈，必须有一些底层知识的体系，这本书和它的实验都是很好地学习例子，不必深究，但是需要会。
 
 ## Golang
+
 * [Go程序设计语言](https://book.douban.com/subject/27044219/)（Go语言圣经）
 
 * [Go语言高级编程(Advanced Go Programming)](https://chai2010.cn/advanced-go-programming-book/)（国产良心之作，干货很多）
@@ -152,8 +153,6 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 
 * [看看你的网站表现如何。然后，获得改进用户体验的提示。登录以跟踪您的进度](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fipkaq.com)
 * [Node.js最佳实践列表](https://github.com/goldbergyoni/nodebestpractices)
-
-
 
 ## Git
 
