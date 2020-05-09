@@ -56,8 +56,9 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [以撸代码的形式学习Python](https://github.com/xianhu/LearnPython)
 * [流畅的Python](https://u.jd.com/hpY2fZ)—— [豆瓣9.4](https://book.douban.com/subject/27028517/) [本书练习题](https://github.com/fluentpython/example-code)
 
-## Javascript & Typescript
+## 前端，不仅仅是前端
 
+* [2020年，你可以用浏览器做的事情 ](https://github.com/luruke/browser-2020)
 * [函数式设计模式]([https://github.com/sudotty/hack-your-mind/blob/master/doc/Functional%20Design%20Patterns.pdf](https://github.com/sudotty/hack-your-mind/blob/master/doc/Functional Design Patterns.pdf))
 * [大多数您可以在浏览器中手动完成的事情，都可以用Puppeteer来完成(Chrome出品)](https://github.com/puppeteer/puppeteer)
 * [跨平台 HTTP and GraphQL客户端 ](https://github.com/Kong/insomnia)
