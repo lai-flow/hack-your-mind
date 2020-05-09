@@ -257,6 +257,8 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [Paxos的直观解释](https://github.com/sudotty/hack-your-mind/blob/master/doc/paxos的直观解释.pdf)
 * [雪球高可用架构改造分享](https://github.com/sudotty/hack-your-mind/blob/master/doc/雪球在股市风暴下的高可用架构改造分享.pdf)
 * [雪花算法和时钟回拨问题]([使用雪花算法为分布式下全局ID、订单号等简单解决方案考虑到时钟回拨](https://www.cnblogs.com/jpfss/p/11506960.html))
+* [三年之久的 etcd3 数据不一致 bug 分析](https://mp.weixin.qq.com/s/VJi1jzTK2G7bH1pi4ND7Yw)
+* [The Log（我所读过的最好的一篇分布式技术文章）](https://www.cnblogs.com/foreach-break/p/notes_about_distributed_system_and_The_log.html) Kafka作者，非常牛，建议每个玩分布式的同学读一下
 
 ## 云原生
 
