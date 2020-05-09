@@ -49,11 +49,11 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 *  [Hands-on Scala 中文](https://github.com/scalacn/hands-on-scala-zh) 新加坡总理儿子lihaoyi的大作，Scala正确的入门方法
 *  [Akka Stream](https://pragmaticscala.com/post/)
 *  [Akka Http中文](https://www.yangbajing.me/akka-http/)
-*  [Scala实用指南](https://reactiveplatform.github.io/Pragmatic-Scala/)
+* [Scala实用指南](https://reactiveplatform.github.io/Pragmatic-Scala/)
 
-## C++(真的别怕，上面我还推荐了更狠的Scala，其实别太纠结，够用就好)
+  ## C++(真的别怕，上面我还推荐了更狠的Scala，其实别太纠结，够用就好	)
 
-* [这是一个适合初学者从**入门到进阶**的仓库，解决了**面试者与学习者**想要**深入C++**及如何**入坑C++**的问题。除此之外，本仓库拓展了更加深入的源码分析，多线程并发等的知识，是一个比较全面的C++学习从入门到进阶提升的仓库。](https://light-city.club/sc/)
+*  [这是一个适合初学者从**入门到进阶**的仓库，解决了**面试者与学习者**想要**深入C++**及如何**入坑C++**的问题。除此之外，本仓库拓展了更加深入的源码分析，多线程并发等的知识，是一个比较全面的C++学习从入门到进阶提升的仓库。](https://light-city.club/sc/)
 
 ## Python
 
@@ -263,6 +263,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [雪花算法和时钟回拨问题]([使用雪花算法为分布式下全局ID、订单号等简单解决方案考虑到时钟回拨](https://www.cnblogs.com/jpfss/p/11506960.html))
 * [三年之久的 etcd3 数据不一致 bug 分析](https://mp.weixin.qq.com/s/VJi1jzTK2G7bH1pi4ND7Yw)
 * [The Log（我所读过的最好的一篇分布式技术文章）](https://www.cnblogs.com/foreach-break/p/notes_about_distributed_system_and_The_log.html) Kafka作者，非常牛，建议每个玩分布式的同学读一下
+* [raft算法与paxos算法相比有什么优势，使用场景有什么差异？](https://www.zhihu.com/question/36648084)
 
 ## 云原生
 
