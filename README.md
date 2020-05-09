@@ -117,6 +117,10 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [看看你的网站表现如何。然后，获得改进用户体验的提示。登录以跟踪您的进度](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fipkaq.com)
 * [Node.js最佳实践列表](https://github.com/goldbergyoni/nodebestpractices)
 
+#### Webpack
+
+* [📚 Webpack 知识图谱：模块化、原理分析、工作原理、实战应用](https://github.com/tsejx/webpack-guidebook)
+
 ## Golang
 
 * [Go程序设计语言](https://book.douban.com/subject/27044219/)（Go语言圣经）
@@ -153,8 +157,6 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
   #### Go 性能
 
   * [Go性能工具分析和手段](https://colobu.com/2019/05/22/profilinggo/)
-
-
 
 ## Git
 
