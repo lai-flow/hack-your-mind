@@ -20,6 +20,7 @@
 * [论文阅读笔记（分布式，虚拟化，机器学习）](https://github.com/dyweb/papers-notebook)
 * [架构师图谱](https://github.com/toutiaoio/awesome-architecture)，看完之后有没有一种吾生也有涯，而知也无涯的感觉
 * [《深入理解计算机系统》第三版的实验文件、解答与笔记](https://github.com/Exely/CSAPP-Labs)：这本书是所有程序员都应该读的，我认为很多程序员可以对底层知识忽略，这种忽略会让你很快走到瓶颈，如果想要突破瓶颈，必须有一些底层知识的体系，这本书和它的实验都是很好地学习例子，不必深究，但是需要会。
+* [可扩展、可靠和高性能的大规模系统的模式](http://awesome-scalability.com/)
 
 ## Java
 
