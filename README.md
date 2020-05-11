@@ -189,7 +189,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [逆向工程 Flutter APP ](https://blog.tst.sh/reverse-engineering-flutter-apps-part-1/)
 * [Flutter 实例](https://github.com/iampawan/FlutterExampleApps)
 * [Flutter集锦](https://github.com/Solido/awesome-flutter)
-* [flutter weekly](https://us17.campaign-archive.com/home/?u=c8d8d18b6e2c6316ddc1d48a0&id=47548a283b)
+* [Flutter weekly](https://us17.campaign-archive.com/home/?u=c8d8d18b6e2c6316ddc1d48a0&id=47548a283b)
 
 ## Android
 
