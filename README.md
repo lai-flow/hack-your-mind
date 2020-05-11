@@ -39,6 +39,7 @@
 * [JVM Profiler: 一种规模化跟踪分布式JVM应用的开源工具](https://eng.uber.com/jvm-profiler/)(Uber出品)
 * [Java关于并发的代码审查列表](https://github.com/code-review-checklists/java-concurrency#executor-service-type-loss)
 * [Java教程](http://tutorials.jenkov.com/)
+* [Spring源码阅读](https://github.com/seaswalker/spring-analysis)
 
 ## Scala
 
