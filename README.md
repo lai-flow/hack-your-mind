@@ -326,4 +326,5 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 ## 工具
 * [Briss裁剪PDF的工具](https://github.com/mbaeuerle/Briss-2.0)
 * [一个快速、交互式的基于网络的性能分析查看器。FlameGraphs的替代浏览器。可以在不影响浏览器的情况下愉快地显示多GB的配置文件](https://github.com/jlfwong/speedscope) 适用于JavaScript，Python，Ruby，Go，Rust等
+* [Sharingan（写轮眼）是一个基于golang的流量录制回放工具，适合项目重构、回归测试等。](https://github.com/didi/sharingan)
 
