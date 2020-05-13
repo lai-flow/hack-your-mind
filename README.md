@@ -165,6 +165,10 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 
   * [Go性能工具分析和手段](https://colobu.com/2019/05/22/profilinggo/)
 
+# #Shell
+
+* [命令行的艺术](https://github.com/jlevy/the-art-of-command-line)
+
 ## Git
 
 * [用动图表示一些有用的Git命令](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
