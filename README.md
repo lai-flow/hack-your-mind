@@ -289,6 +289,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [SQL查询引擎：PRESTO](https://prestodb.io/docs/current/)
 * [用Spark进行交互式数据分析的网络应用](https://github.com/sudotty/hack-your-mind/blob/master/doc/A-Web-Application-for-Interactive-Data-Analysis-with-Spark-Romain-Rigaux.pdf)
 * [追源索骥-通过源码读Flink](https://github.com/bethunebtj/flink_tutorial)
+* [Spark中文文档](https://github.com/apachecn/spark-doc-zh)
 
 ## 职业素养和职业发展
 
