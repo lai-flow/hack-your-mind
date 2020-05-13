@@ -322,6 +322,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 ## 社区，阅读
 
 * [湾区日报](https://wanqu.co/)
+* [存放知识星球内发布的所有笔记](https://github.com/apachecn/zsxq-notes)
 
 ## 工具
 * [Briss裁剪PDF的工具](https://github.com/mbaeuerle/Briss-2.0)
