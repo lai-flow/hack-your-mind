@@ -192,6 +192,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [Flutter 实例](https://github.com/iampawan/FlutterExampleApps)
 * [Flutter集锦](https://github.com/Solido/awesome-flutter)
 * [Flutter weekly](https://us17.campaign-archive.com/home/?u=c8d8d18b6e2c6316ddc1d48a0&id=47548a283b)
+* [Fluro是一个Flutter路由库，它增加了灵活的路由选项，如通配符、命名参数和清晰的路由定义](https://github.com/theyakka/fluro)
 
 ## Android
 
