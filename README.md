@@ -199,6 +199,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [💎 Android 应用遵循最佳实践。Kotlin, coroutines, Clean Architecture, 功能模块, 测试, MVVM, 静态分析......](https://github.com/igorwojda/android-showcase)
 * [无需root的安卓平台上的JavaScript自动化工具](https://github.com/hyb1996/Auto.js)
 * [Android应用架构指南](https://developer.android.google.cn/jetpack/docs/getting-started)
+* [完全使用C构建无Java的Android](https://github.com/cnlohr/rawdrawandroid)
 
 ## DB
 
