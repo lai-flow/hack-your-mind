@@ -129,6 +129,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 
 * [Node.js定时任务框架](https://github.com/node-schedule/node-schedule)
 * [这个命令行接口可以让你将Node.js项目打包成可执行文件，即使在没有安装Node.js的设备上也可以运行](https://github.com/zeit/pkg)
+* [Deno进阶开发笔记](https://chenshenhai.com/deno_note)
 
 ####  Web Dev
 
