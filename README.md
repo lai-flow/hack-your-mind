@@ -329,6 +329,7 @@ Scala作为一门被误解（被说太复杂）的语言，其实非常值得学
 * [给安全人士的Golang](https://github.com/parsiya/Hacking-with-Go/)
 * [一个高级web目录、文件扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑](https://github.com/H4ckForJob/dirmap)
 * [潮涌web漏洞自动化挖掘平台——自动化扫描全网或特定范围web资产，之后获取指纹信息、爬取页面url并提炼，最后进行特定payload测试。](https://github.com/TideSec/TideWave)
+* [漏洞文章](https://paper.seebug.org/)
 
 ## 爬虫
 * [反反爬虫](https://github.com/luyishisi/Anti-Anti-Spider)
